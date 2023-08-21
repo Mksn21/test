@@ -1,0 +1,6 @@
+biosppy==1.0.0
+pyhrv==0.4.1
+seaborn==0.12.2
+pyserial==3.5
+sklearn==0.0.post7
+tk==0.1.0
